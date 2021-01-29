@@ -40,7 +40,7 @@
         app:lazyloader_thirdDotColor="#fff" />
 
     <ImageView
-        android:id="@+id/iv_random_dog"
+        android:id="@+id/iv_random_fox"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_centerInParent="true"
